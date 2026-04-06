@@ -1,2 +1,2 @@
-# codepath_homwork_week9
+# Web Application Security Lab
 See branches for assignments
